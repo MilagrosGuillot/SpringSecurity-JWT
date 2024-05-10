@@ -22,6 +22,8 @@ permisos de acceso.
 - accountNoExpired
 - accountNoLocked
 - credentialNoExpired
+- profesional
+- roles
 
 **Rol**
 - id
@@ -56,3 +58,8 @@ permisos de acceso.
 📍 PUT | /login
 - Permite al usuario iniciar sesión en la aplicación.
 
+### Diagrama
+
+### Modelo Relacional de la BD
+
+![Modelo Relacional de la BD](./serviciosProfesionales.drawio.png)
