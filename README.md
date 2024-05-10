@@ -63,3 +63,6 @@ permisos de acceso.
 ### Modelo Relacional de la BD
 
 ![Modelo Relacional de la BD](./IMAGEN%20personal.png)
+![ServiciosProfesionales drawio](https://github.com/MilagrosGuillot/SpringSecurity-JWT/assets/101240663/98687187-3394-4026-bf1c-2ac82039d49b)
+
+
