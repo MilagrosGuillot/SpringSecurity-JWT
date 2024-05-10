@@ -62,4 +62,4 @@ permisos de acceso.
 
 ### Modelo Relacional de la BD
 
-![Modelo Relacional de la BD](./serviciosProfesionales.drawio.png)
+![Modelo Relacional de la BD](./serviciosProfesionales1.drawio.png)
